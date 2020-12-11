@@ -1,0 +1,19 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "my first portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativecoder254/portfolio.git"
+  },
+  "author": "coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creativecoder254/portfolio/issues"
+  },
+  "homepage": "https://github.com/creativecoder254/portfolio#readme"
+}
